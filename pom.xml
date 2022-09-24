@@ -37,8 +37,15 @@
             <name>Ernesto</name>
             <email>ernesto.saquete.rios@gmail.com</email>
             <roles>
-                <role>leader</role>
+                <role>Developer</role>
+                <role>Gamer</role>
             </roles>
+            <properties>
+                <favorite.videogame>Space Leaper Cocoon</favorite.videogame>
+                <favorite.manga>Bleach</favorite.manga>
+                <favorite.film>No game no life zero</favorite.film>
+                <favorite.music>Electronic music and Nightcore</favorite.music>
+            </properties>
         </developer>
     </developers>
     <dependencies>

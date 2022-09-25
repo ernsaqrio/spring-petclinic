@@ -10,6 +10,12 @@
     <div class="row">
         <h2>Project ${title}</h2>
         <p><h2>Group ${group}</h2></p>
+        <div class="row">
+            <div class="col-md-12">
+                <spring:url value="/resources/images/logoPNG_3.png" htmlEscape="true" var="logo"/>
+                <img class="img-responsive" src="${logo}"/>
+            </div>
+        </div>
         <p>
             <ul>
                 <c:forEach items="${persons}" var="person">
